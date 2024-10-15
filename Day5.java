@@ -25,7 +25,7 @@ class Solution {
        }
 
         return dummy.next;
-    }
+    
 }
 public class Day5-3217 {
     
