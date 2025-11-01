@@ -26,7 +26,9 @@ class Solution {
 
         return dummy.next;
     
+    }
 }
+//new
 public class Day5-3217 {
     
 }
