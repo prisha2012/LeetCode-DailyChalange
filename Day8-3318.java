@@ -38,7 +38,7 @@ class Solution {
         return sum;
 
     }
-}
+
 public class Day8-3318 {
     
 }
