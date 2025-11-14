@@ -1,4 +1,4 @@
-public class Solution {
+class Solution {
     public int maxOperations(String s) {
         int ones=0;
         int ans=0;
@@ -16,6 +16,7 @@ public class Solution {
         }
         return ans;
     }
-} {
+}
+public class Day17-3328 {
     
 }
