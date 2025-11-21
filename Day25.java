@@ -34,4 +34,3 @@ class Solution {
 
 public class Day25-1930 {
     
-}
