@@ -25,7 +25,7 @@ class Solution {
         }
         return total >= (long) n * T;
     }
-}
+}DA
 public class Day35-2141 {
     
 }
