@@ -35,4 +35,3 @@ class Solution {
 }
 public class Day58 {
     
-}
