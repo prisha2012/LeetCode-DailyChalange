@@ -38,7 +38,7 @@ class Solution {
 
         return low;
     }
-}
+
 public class Day78 {
     
 }
