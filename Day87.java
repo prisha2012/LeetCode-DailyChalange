@@ -27,7 +27,7 @@ class Solution {
       if (nums.get(i) > nums.get(i + 1))
         return true;
     return false;
-  }
+  
 }
 public class Day87 {
     
